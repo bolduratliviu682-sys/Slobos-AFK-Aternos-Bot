@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "McTitanSMP.aternos.me",
+    "ip": "McTitanSMP.aternos.me:29016",
     "port": 29016,
     "version": "1.21.11",
     "try-creative": false
